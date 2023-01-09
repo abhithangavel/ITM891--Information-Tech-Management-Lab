@@ -8,4 +8,4 @@ In this course I hope to learn
 * Big Data Analysis
 * Machine Learning and Deep Learning
 
-https://d2l.msu.edu/d2l/home/1656899
+[Link to the CSE 801A/ITM 891 Course Page] (https://d2l.msu.edu/d2l/home/1656899)
